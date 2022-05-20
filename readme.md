@@ -10,7 +10,7 @@ Learning GIT
 
 ### Dependencies
 
-* None
+* GCC
 
 ### Installing
 
@@ -27,8 +27,7 @@ gcc -o hello.c hello
 
 Contributors
 
-Dominique Pizzie
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+k181151
 
 ## License
 
